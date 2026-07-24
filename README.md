@@ -1,4 +1,4 @@
-# 🤖 DAVISS AI – Agentic RAG Assistant
+#  DAVISS AI – Agentic RAG Assistant
 
 DAVISS AI is an intelligent **Agentic Retrieval-Augmented Generation (RAG)** assistant developed using **Python, Streamlit, LangChain, LangGraph, ChromaDB, HuggingFace Embeddings, and Groq LLM**.
 
@@ -6,7 +6,7 @@ The application enables users to upload one or multiple PDF documents and intera
 
 ---
 
-# 🚀 Key Features
+#  Key Features
 
 - 📄 Upload single or multiple PDF documents
 - 🤖 Agentic workflow powered by LangGraph
@@ -23,7 +23,7 @@ The application enables users to upload one or multiple PDF documents and intera
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 - Python
 - Streamlit
@@ -38,7 +38,7 @@ The application enables users to upload one or multiple PDF documents and intera
 
 ---
 
-# ⚙️ How It Works
+#  How It Works
 
 1. The user uploads one or more PDF documents.
 2. The documents are loaded using **PyPDFLoader**.
@@ -52,7 +52,7 @@ The application enables users to upload one or multiple PDF documents and intera
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 DAVISS-AI/
@@ -68,7 +68,7 @@ DAVISS-AI/
 
 ---
 
-# ▶️ Installation
+#  Installation
 
 ### Clone the repository
 
@@ -97,7 +97,7 @@ streamlit run app.py
 
 ---
 
-# 💬 Usage
+#  Usage
 
 - Launch the application.
 - Upload one or more PDF documents.
@@ -108,7 +108,7 @@ streamlit run app.py
 
 ---
 
-# 🌟 Future Improvements
+#  Future Improvements
 
 - User Authentication
 - Conversation Memory
