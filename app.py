@@ -43,8 +43,10 @@ html,body,[class*="css"]{
     color:white;
 }
 
-header,footer,#MainMenu{
+#MainMenu,
+footer{
     visibility:hidden;
+}
 }
 
 .block-container{
