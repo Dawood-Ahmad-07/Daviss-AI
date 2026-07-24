@@ -233,8 +233,7 @@ I can answer from your uploaded PDFs and also general knowledge.
 </div>
 """, unsafe_allow_html=True)
 # ============ 2. LOAD PDF ============
-import os
-os.chdir(r"C:\Users\DAWOOD\Desktop\RAG")
+
 
 from langchain_community.document_loaders import PyPDFLoader
 
