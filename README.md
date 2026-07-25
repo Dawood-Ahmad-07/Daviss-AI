@@ -60,9 +60,6 @@ DAVISS-AI/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── .env
-├── chroma_db_new/
-├── uploaded_docs/
 └── sample.pdf
 ```
 
@@ -100,7 +97,7 @@ streamlit run app.py
 #  Usage
 
 - Launch the application.
-- Upload one or more PDF documents.
+- Upload one or more PDF documents in text format.
 - Wait until the indexing process completes.
 - Ask questions related to the uploaded documents.
 - View retrieved document sources.
